@@ -9,3 +9,4 @@ contact me on telegram - https://t.me/profcodes
 # instagram scampage
 instagram clone script
 # instagram phishing
+instagram fake login script
