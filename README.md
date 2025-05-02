@@ -11,4 +11,4 @@ instagram clone script
 # instagram phishing
 instagram fake login script
 # instagram cloning
-Instagram hack
+Instagram hacking methods
