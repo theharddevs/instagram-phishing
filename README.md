@@ -13,3 +13,4 @@ instagram fake login script
 # instagram cloning
 Instagram hacking methods
 instagram bruteforcing hacking
+instagram account recovery
