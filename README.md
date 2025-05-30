@@ -14,3 +14,4 @@ instagram fake login script
 Instagram hacking methods
 instagram bruteforcing hacking
 instagram account recovery
+instagram ban tool
