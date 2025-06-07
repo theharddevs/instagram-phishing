@@ -16,3 +16,4 @@ instagram bruteforcing hacking
 instagram account recovery
 # instagram ban tool
 # instagram ban app
+instagram phishing
