@@ -18,3 +18,4 @@ instagram account recovery
 # instagram ban app
 instagram phishing
 insta cloner
+instagram phishing script
