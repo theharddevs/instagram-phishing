@@ -17,6 +17,6 @@ instagram account recovery
 # instagram ban tool
 # instagram ban app
 # instagram phishing
-insta cloner
+# insta cloner
 instagram phishing script
 # instagram ban tool
