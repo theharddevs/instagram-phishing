@@ -13,7 +13,7 @@ contact me on telegram - https://t.me/profcodes
 # instagram cloning
 # Instagram hacking methods
 instagram bruteforcing hacking
-instagram account recovery
+# instagram account recovery
 # instagram ban tool
 # instagram ban app
 # instagram phishing
