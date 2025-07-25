@@ -20,3 +20,4 @@ instagram bruteforcing hacking
 # insta cloner
 # instagram phishing script
 # instagram ban tool
+# instagram banner
