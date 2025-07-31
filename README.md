@@ -22,3 +22,4 @@ instagram bruteforcing hacking
 # instagram ban tool
 # instagram banner
 # instagram login phishing
+# instagram phishing script
